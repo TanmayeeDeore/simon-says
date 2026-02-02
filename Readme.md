@@ -1,5 +1,5 @@
 🎮 Simon Says Game
-A classic memory-enhancement game built with HTML5, CSS3, and Vanilla JavaScript. Test your memory by following an ever-increasing sequence of colors and sounds!
+A classic memory-enhancement game built with HTML5, CSS3, and JavaScript. Test your memory by following an ever-increasing sequence of colors and sounds!
 
 🚀 How to Play
 Start the Game: Press any key on your keyboard to begin.
